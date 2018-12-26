@@ -30,7 +30,7 @@ node {
     def pubProfilesJson = sh script: "az webapp deployment list-publishing-profiles -g $resourceGroup -n $webAppName", returnStdout: true
     def ftpProfile = getFtpPublishProfile pubProfilesJson
     // upload package
-    sh "curl -T target/calculator-1.0.war $ftpProfile.url/webapps/ROOT.war -u '$ftpProfile.username:$ftpProfile.password'"
+    sh "curl -T target/cloudwebapp.war $ftpProfile.url/webapps/ROOT.war -u '$ftpProfile.username:$ftpProfile.password'"
     // log out
     sh 'az logout'
   }
