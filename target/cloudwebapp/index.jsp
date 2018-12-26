@@ -134,7 +134,7 @@
               <div class="ic-1"><i class="icon-eye-open"></i></div>
               <div class="title-1"><h4>Retina Ready</h4></div>
               <div class="text-1">
-                Contrairement Ã  une opinion rÃ©pandue, Lorem as Ipsumtionnaire de plus n'est pas simplake apple pie. Gingerbread cotton  ice cream applicake wafeement.
+                Contrairement à une opinion répandue, Lorem as Ipsumtionnaire de plus n'est pas simplake apple pie. Gingerbread cotton  ice cream applicake wafeement.
               </div>
             </div>    
           </div>   
