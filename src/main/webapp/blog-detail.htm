@@ -51,7 +51,7 @@
         <!-- Logo -->
         <div class="span3">
           <div class="logo">
-            <a href="index.htm"><img src="img/logo-header.png" alt=""></a>
+            <a href="index.jsp"><img src="img/logo-header.png" alt=""></a>
           </div>            
         </div>
 
@@ -61,7 +61,7 @@
                	<a href="#nav" title="Show navigation">Show navigation</a>
 	            <a href="#" title="Hide navigation">Hide navigation</a>
 	            <ul class="clearfix">
-	           	<li class="active"><a href="index.htm" title="">Home</a></li>
+	           	<li class="active"><a href="index.jsp" title="">Home</a></li>
                 <li><a href="about-us.htm" title="">About Us</a></li>                
                 <li><a href="gallery.htm" title="">Gallery</a></li>
                 <li><a href="services.htm" title="">Services</a></li>
